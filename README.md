@@ -1,6 +1,8 @@
 # ECMASCRIPT 2023/2024
 
-ES 2023/2024 Syntax
+related links
+- [Clean Code JavaScript](https://github.com/FrontendEraspace/clean-code-javascript)
+- [Clean Code & Code Conventions Next.js](https://github.com/FrontendEraspace/clean-code-nextjs)
 
 ## 1. Object GroupBy
 
